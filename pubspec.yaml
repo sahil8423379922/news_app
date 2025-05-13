@@ -1,0 +1,41 @@
+name: news_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  youtube_player_flutter: ^9.1.1
+  firebase_core: ^3.13.0
+  firebase_auth: ^5.5.3
+  connectivity_plus: ^6.1.4
+  cloud_firestore: ^5.6.7
+  intl: ^0.20.2
+  flutter_localizations:
+    sdk: flutter
+  pod_player: ^0.2.2
+  youtube_player_iframe: ^5.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  generate: true
+
+  # l10n:
+  #   arb-dir: lib/l10n
+  #   template-arb-file: app_en.arb
+  #   output-localization-file: app_localizations.dart
+
+  assets:
+    - assets/images/

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "223632904045",
+    "firebase_url": "https://tic-tok-app-7ebc2-default-rtdb.firebaseio.com",
+    "project_id": "tic-tok-app-7ebc2",
+    "storage_bucket": "tic-tok-app-7ebc2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223632904045:android:fa451daf271305fe3cd464",
+        "android_client_info": {
+          "package_name": "com.example.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223632904045-t6fv35pc3b7fedsuirp615jtepcdnfbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDvZo35XjOuFpe6is6F7p6etbpjAPBQ_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223632904045-7smm5kmveqf1v1filr8618iedj8n6ugu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "223632904045-hl77gi0dv1movkpaufcqgvcl7r44jaj7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cwd.tiktokYt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

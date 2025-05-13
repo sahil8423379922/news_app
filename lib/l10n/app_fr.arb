@@ -1,0 +1,23 @@
+{
+    "@@locale": "fr",
+    "appTitle": "PAIGC Connect",
+    "dashboard": "Tableau de bord",
+    "aboutUs": "À propos de nous",
+    "reportNow": "Signaler maintenant",
+    "starVolunteer": "Bénévole étoile",
+    "exit": "Quitter",
+    "logout": "Déconnexion",
+    "recentNews": "Nouvelles récentes",
+    "seeAll": "Voir tout",
+    "liveStream": "Diffusion en direct",
+    "searchGroups": "Rechercher des groupes",
+    "reportnow": "Signaler maintenant",
+    "name": "Nom",
+    "location": "Emplacement",
+    "reportdetails": "Détails du rapport",
+    "anonymous": "Anonyme",
+    "protectedbyencryption": "Protégé par cryptage",
+    "reportsentsuccessfully": "Rapport envoyé avec succès"
+   
+  }
+  
