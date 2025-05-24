@@ -4,6 +4,7 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:news_app/l10n/app_localizations.dart';
 import 'package:news_app/screens/auth/login.dart';
 import 'package:news_app/screens/dashboard/dashboard.dart';
+import 'package:news_app/screens/splash/splash.dart';
 
 // void main() {
 //   runApp(const MyApp());
@@ -37,7 +38,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: LoginScreen(),
+      home: SplashScreen(),
       // home: PaigcHeader(),
       debugShowCheckedModeBanner: false,
     );

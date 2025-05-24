@@ -10,9 +10,9 @@ class VideoPlayer extends StatefulWidget {
 
 class _VideoPlayerState extends State<VideoPlayer> {
   final List<String> videoUrls = [
-    "https://www.youtube.com/watch?v=9bZkp7q19f0",
-    "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-    "https://www.youtube.com/watch?v=L_jWHffIx5E",
+    "https://m.youtube.com/watch?v=gwSvoZa9ops#",
+    "https://m.youtube.com/watch?si=3dXb5hmWgMXaeX4f&v=Z3CYShoF4iQ&feature=youtu.be",
+    "https://m.youtube.com/watch?v=chgVchcArRk&pp=0gcJCdgAo7VqN5tD",
   ];
 
   late YoutubePlayerController _controller;
